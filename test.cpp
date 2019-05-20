@@ -1,0 +1,4 @@
+void testfunction()
+{
+	pringf("testtest");
+}
