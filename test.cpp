@@ -1,4 +1,6 @@
 void testfunction()
 {
 	pringf("testtest");
+
+	‚ ‚¢‚¤‚¦‚¨
 }
